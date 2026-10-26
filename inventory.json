@@ -1,7 +1,7 @@
 {
   "dealership": "Sullivan Motor Products Nelson Ltd",
-  "generated_at": "2026-10-25T15:37:34",
-  "vehicle_count": 100,
+  "generated_at": "2026-10-26T00:17:39",
+  "vehicle_count": 101,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -436,6 +436,15 @@
     },
     {
       "name": "2024 JEEP GRAND CHEROKEE Limited",
+      "vin": "1C4RJHBG1RC156721",
+      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/9c8188270a87.html",
+      "year": 2024,
+      "make": "JEEP",
+      "model": "Grand Cherokee",
+      "condition": "new"
+    },
+    {
+      "name": "2024 JEEP GRAND CHEROKEE Limited",
       "vin": "1C4RJHBG5RC156723",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/5e130532c82e.html",
       "year": 2024,
@@ -504,9 +513,9 @@
       "condition": "used"
     },
     {
-      "name": "2026 DODGE CHARGER Scat Pack",
+      "name": "2026 DODGE CHARGER 2-Door Scat Pack",
       "vin": "2C3CDAMP7TR224752",
-      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/1c69ed0dd139.html",
+      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/1f72d68d6f04.html",
       "year": 2026,
       "make": "DODGE",
       "model": "Charger",
@@ -706,9 +715,9 @@
       "condition": "new"
     },
     {
-      "name": "2026 JEEP WRANGLER Sahara",
-      "vin": "1C4PJXEG6TW205978",
-      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/039e4b672272.html",
+      "name": "2026 JEEP WRANGLER 4-Door Sahara",
+      "vin": "1C4PJXEN4TW215813",
+      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/b812aca22663.html",
       "year": 2026,
       "make": "JEEP",
       "model": "Wrangler",
@@ -716,8 +725,8 @@
     },
     {
       "name": "2026 JEEP WRANGLER Sahara",
-      "vin": "1C4PJXEN4TW215813",
-      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/4887482230fb.html",
+      "vin": "1C4PJXEG6TW205978",
+      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/039e4b672272.html",
       "year": 2026,
       "make": "JEEP",
       "model": "Wrangler",
@@ -744,18 +753,45 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 1500 Express",
+      "name": "2026 RAM 1500 Black Express",
       "vin": "1C6RRFCG1TN388976",
-      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/89ce639777b0.html",
+      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/d1257e11494d.html",
       "year": 2026,
       "make": "RAM",
       "model": "1500",
       "condition": "new"
     },
     {
-      "name": "2026 RAM 1500 Express",
+      "name": "2026 RAM 1500 Black Express",
       "vin": "1C6SRFGP2TN377948",
-      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/d5754081d8ab.html",
+      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/94ad8cd3cab3.html",
+      "year": 2026,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new"
+    },
+    {
+      "name": "2026 RAM 1500 Black Express",
+      "vin": "1C6SRFGP6TN375961",
+      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/7125d7a8d803.html",
+      "year": 2026,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new"
+    },
+    {
+      "name": "2026 RAM 1500 Black Express",
+      "vin": "1C6SRFGP8TN375962",
+      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/ceb11c0c0543.html",
+      "year": 2026,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new"
+    },
+    {
+      "name": "2026 RAM 1500 Black Express",
+      "vin": "3C6RRFGG3T4161695",
+      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/7dc706158ebb.html",
       "year": 2026,
       "make": "RAM",
       "model": "1500",
@@ -765,33 +801,6 @@
       "name": "2026 RAM 1500 Express",
       "vin": "1C6SRFGP4TN375960",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/d6641334ec43.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new"
-    },
-    {
-      "name": "2026 RAM 1500 Express",
-      "vin": "1C6SRFGP6TN375961",
-      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/0b399834ad97.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new"
-    },
-    {
-      "name": "2026 RAM 1500 Express",
-      "vin": "1C6SRFGP8TN375962",
-      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/16eba3342cc4.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new"
-    },
-    {
-      "name": "2026 RAM 1500 Express",
-      "vin": "3C6RRFGG3T4161695",
-      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/84331c146f48.html",
       "year": 2026,
       "make": "RAM",
       "model": "1500",
@@ -888,9 +897,9 @@
       "condition": "new"
     },
     {
-      "name": "2027 CHRYSLER PACIFICA Select",
+      "name": "2027 CHRYSLER PACIFICA Select AWD",
       "vin": "2C4RC3BG2VR610070",
-      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/13d7eeaf209c.html",
+      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/d98876b8792f.html",
       "year": 2027,
       "make": "CHRYSLER",
       "model": "Pacifica",
