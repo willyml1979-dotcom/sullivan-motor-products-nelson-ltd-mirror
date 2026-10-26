@@ -1,7 +1,7 @@
 {
   "dealership": "Sullivan Motor Products Nelson Ltd",
-  "generated_at": "2026-10-26T00:17:39",
-  "vehicle_count": 101,
+  "generated_at": "2026-10-26T01:08:37",
+  "vehicle_count": 100,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -413,17 +413,6 @@
       "make": "DODGE",
       "model": "Hornet",
       "condition": "new"
-    },
-    {
-      "name": "2024 JEEP GRAND CHEROKEELimited 4x4",
-      "vin": "1C4RJHBG1RC156721",
-      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/9c8188270a87.html",
-      "year": 2024,
-      "make": "JEEP",
-      "model": "Grand Cherokee",
-      "condition": "used",
-      "price": 28496.0,
-      "price_currency": "CAD"
     },
     {
       "name": "2024 JEEP WRANGLER Sport S",
