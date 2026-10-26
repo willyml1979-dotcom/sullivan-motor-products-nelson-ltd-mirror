@@ -1,6 +1,6 @@
 {
   "dealership": "Sullivan Motor Products Nelson Ltd",
-  "generated_at": "2026-10-26T01:08:37",
+  "generated_at": "2026-10-26T08:41:53",
   "vehicle_count": 100,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -567,15 +567,13 @@
       "condition": "used"
     },
     {
-      "name": "2026 JEEP CHEROKEELaredo 4x4",
+      "name": "2026 JEEP CHEROKEE Laredo",
       "vin": "3C4PJMB23TT275998",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/c7a9b2ed0d1e.html",
       "year": 2026,
       "make": "JEEP",
       "model": "Cherokee",
-      "condition": "new",
-      "price": 48180.0,
-      "price_currency": "CAD"
+      "condition": "new"
     },
     {
       "name": "2026 JEEP CHEROKEE Laredo",
