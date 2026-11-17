@@ -1,111 +1,31 @@
 {
   "dealership": "Sullivan Motor Products Nelson Ltd",
-  "generated_at": "2026-11-17T10:29:34",
-  "vehicle_count": 99,
+  "generated_at": "2026-11-17T12:10:10",
+  "vehicle_count": 80,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "2002 HONDA CR-V4WD EX Auto w/Leather",
-      "vin": "JHLRD78912C807638",
-      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/e10aa38fd5e5.html",
-      "year": 2002,
-      "make": "HONDA",
-      "model": "CR-V4WD EX Auto w/Leather",
-      "condition": "used",
-      "price": 17887.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2003 FORD ESCAPE4dr Limited 4WD",
-      "vin": "1FMCU94133KC52385",
-      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/de910b333c37.html",
-      "year": 2003,
-      "make": "FORD",
-      "model": "ESCAPE4dr Limited 4WD",
-      "condition": "used",
-      "price": 25873.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2008 FORD SUPER DUTY F-350 SRWHarley-Davidson",
-      "vin": "1HD1FL4168Y689058",
-      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/dac424a7aaa4.html",
-      "year": 2008,
-      "make": "FORD",
-      "model": "Super Duty",
-      "condition": "used",
-      "price": 25873.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2010 FORD F-150XLT",
-      "vin": "1FTFW1EV1AFB19581",
-      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/bd3ae231a8bd.html",
-      "year": 2010,
-      "make": "FORD",
-      "model": "F-150",
-      "condition": "used",
-      "price": 25873.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2010 HYUNDAI GENESIS COUPE2dr I4 Auto Premium",
-      "vin": "KMHHT6KD4AU036924",
-      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/b8a3ee8effab.html",
-      "year": 2010,
-      "make": "HYUNDAI",
-      "model": "GENESIS COUPE2dr I4 Auto Premium",
-      "condition": "used",
-      "price": 35624.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2014 DODGE GRAND CARAVAN SXT",
+      "name": "2014 DODGE GRAND CARAVAN4dr Wgn SXT",
       "vin": "2C4RDGBG8ER315298",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/3cf4e8e8dd85.html",
       "year": 2014,
       "make": "DODGE",
-      "model": "Grand Caravan",
-      "condition": "used"
-    },
-    {
-      "name": "2014 RAM 35004WD Crew Cab 149 SLT",
-      "vin": "3C63R3DL3EG268379",
-      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/46b15f495742.html",
-      "year": 2014,
-      "make": "RAM",
-      "model": "35004WD Crew Cab 149 SLT",
+      "model": "GRAND CARAVAN4dr Wgn SXT",
       "condition": "used",
-      "price": 29957.0,
+      "price": 34790.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2015 CHRYSLER 200 C",
-      "vin": "1C3CCCEG2FN598118",
-      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/2beba0a2a9d5.html",
-      "year": 2015,
-      "make": "CHRYSLER",
-      "model": "200 C",
-      "condition": "used"
-    },
-    {
-      "name": "2015 RAM 1500 Sport",
-      "vin": "1C6RR7HT1FS774895",
-      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/f8ba458dbc5f.html",
-      "year": 2015,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used"
-    },
-    {
-      "name": "2017 DODGE GRAND CARAVAN SXT",
+      "name": "2017 DODGE GRAND CARAVAN4dr Wgn SXT",
       "vin": "2C4RDGBG0HR877538",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/4442816a0823.html",
       "year": 2017,
       "make": "DODGE",
-      "model": "Grand Caravan",
-      "condition": "used"
+      "model": "GRAND CARAVAN4dr Wgn SXT",
+      "condition": "used",
+      "price": 12227.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2018 HYUNDAI ELANTRAGL Auto",
@@ -130,63 +50,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 RAM 1500 Big Horn",
-      "vin": "1C6RR7GT9JS173423",
-      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/a3a8a2deff1b.html",
-      "year": 2018,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used"
-    },
-    {
-      "name": "2018 RAM 1500 Rebel",
+      "name": "2018 RAM 1500Rebel 4x4 Crew Cab 5'7 Box *Ltd Avail*",
       "vin": "1C6RR7YT5JS175006",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/7fb9f7b2d026.html",
       "year": 2018,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
-    },
-    {
-      "name": "2019 GMC TERRAIN SLT",
-      "vin": "3GKALVEXXKL178474",
-      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/0e29af52a624.html",
-      "year": 2019,
-      "make": "GMC",
-      "model": "Terrain",
-      "condition": "used"
-    },
-    {
-      "name": "2019 JEEP CHEROKEELimited 4x4",
-      "vin": "1C4PJMDN0KD189690",
-      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/3b2e3a0d8a00.html",
-      "year": 2019,
-      "make": "JEEP",
-      "model": "Cherokee",
       "condition": "used",
-      "price": 56775.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 RAM 1500 CLASSICExpress 4x4 Crew Cab 5'7 Box",
-      "vin": "1C6RR7KT1KS599485",
-      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/3ad97c3f3dc6.html",
-      "year": 2019,
-      "make": "RAM",
-      "model": "1500 Classic",
-      "condition": "used",
-      "price": 29957.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 RAM 2500Power Wagon 4x4 Crew Cab 6'4 Box",
-      "vin": "3C6TR5EJ5KG538958",
-      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/db97e4ef6ec3.html",
-      "year": 2019,
-      "make": "RAM",
-      "model": "2500",
-      "condition": "used",
-      "price": 29957.0,
+      "price": 29909.0,
       "price_currency": "CAD"
     },
     {
@@ -198,6 +69,17 @@
       "model": "3500",
       "condition": "used",
       "price": 92230.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 JEEP GLADIATOROverland 4x4",
+      "vin": "1C6HJTFGXLL145773",
+      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/6cadc28c3eda.html",
+      "year": 2020,
+      "make": "JEEP",
+      "model": "Gladiator",
+      "condition": "used",
+      "price": 33980.0,
       "price_currency": "CAD"
     },
     {
@@ -252,15 +134,6 @@
       "condition": "used"
     },
     {
-      "name": "2022 FORD ESCAPE Titanium",
-      "vin": "1FMCU9J94NUA55159",
-      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/b73a66e72ad7.html",
-      "year": 2022,
-      "make": "FORD",
-      "model": "Escape",
-      "condition": "used"
-    },
-    {
       "name": "2022 JEEP GLADIATORWillys 4x4",
       "vin": "1C6HJTAG5NL155685",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/5b62a5ef97a6.html",
@@ -272,24 +145,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 RAM 1500 Sport",
-      "vin": "1C6SRFVT5NN166245",
-      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/ae803b6a150a.html",
-      "year": 2022,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used"
-    },
-    {
-      "name": "2022 RAM 1500 CLASSIC Warlock",
-      "vin": "1C6RR7LG6NS229994",
-      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/4b16d9737bb8.html",
-      "year": 2022,
-      "make": "RAM",
-      "model": "1500 Classic",
-      "condition": "used"
-    },
-    {
       "name": "2022 RAM 3500Limited Longhorn 4x4 Crew Cab 8' Box",
       "vin": "3C63R3KLXNG260508",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/9f31eb2fa85f.html",
@@ -299,15 +154,6 @@
       "condition": "used",
       "price": 29957.0,
       "price_currency": "CAD"
-    },
-    {
-      "name": "2023 CHRYSLER PACIFICA Touring L",
-      "vin": "2C4RC3BG6PR565895",
-      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/9b426bdc52a7.html",
-      "year": 2023,
-      "make": "CHRYSLER",
-      "model": "Pacifica",
-      "condition": "used"
     },
     {
       "name": "2023 FORD F-150XL",
@@ -339,15 +185,6 @@
       "condition": "used"
     },
     {
-      "name": "2023 JEEP GLADIATOR Sport S",
-      "vin": "1C6HJTAG9PL520548",
-      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/96df2d9fd290.html",
-      "year": 2023,
-      "make": "JEEP",
-      "model": "Gladiator",
-      "condition": "used"
-    },
-    {
       "name": "2023 JEEP GRAND CHEROKEE 4XE4x4",
       "vin": "1C4RJYB66PC615861",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/b2cf09d83712.html",
@@ -355,46 +192,41 @@
       "make": "JEEP",
       "model": "Grand Cherokee",
       "condition": "used",
-      "price": 28496.0,
+      "price": 45995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2023 JEEP WRANGLER Sahara",
+      "name": "2023 JEEP WRANGLERSahara 4 Door 4x4",
       "vin": "1C4HJXEN7PW586586",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/1ce95d428d2c.html",
       "year": 2023,
       "make": "JEEP",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "price": 36876.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2023 JEEP WRANGLER Sahara Altitude",
+      "name": "2023 JEEP WRANGLERSahara Altitude 4 Door 4x4",
       "vin": "1C4HJXEG8PW654752",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/5188887ded7e.html",
       "year": 2023,
       "make": "JEEP",
       "model": "Wrangler",
-      "condition": "used"
-    },
-    {
-      "name": "2023 MITSUBISHI OUTLANDER PHEVSEL S-AWC",
-      "vin": "JA4T5UA96PZ605207",
-      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/a0bfdff41cbb.html",
-      "year": 2023,
-      "make": "MITSUBISHI",
-      "model": "Outlander PHEV",
       "condition": "used",
-      "price": 17887.0,
+      "price": 58190.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2024 ALFA ROMEO TONALE Veloce",
+      "name": "2024 ALFA ROMEO TONALEVeloce EAWD",
       "vin": "ZASPATDWXR3036077",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/a94e182645d7.html",
       "year": 2024,
       "make": "ALFA",
-      "model": "ROMEO TONALE Veloce",
-      "condition": "used"
+      "model": "ROMEO TONALEVeloce EAWD",
+      "condition": "used",
+      "price": 39995.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2024 CHRYSLER GRAND CARAVANSXT 2WD",
@@ -404,7 +236,7 @@
       "make": "CHRYSLER",
       "model": "Grand Caravan",
       "condition": "used",
-      "price": 50195.0,
+      "price": 37995.0,
       "price_currency": "CAD"
     },
     {
@@ -426,13 +258,15 @@
       "condition": "new"
     },
     {
-      "name": "2024 JEEP WRANGLER Sport S",
+      "name": "2024 JEEP WRANGLERSport S 4 Door 4x4",
       "vin": "1C4PJXDN0RW165261",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/7bdd7324e79b.html",
       "year": 2024,
       "make": "JEEP",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "price": 46887.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2024 JEEP GRAND CHEROKEE Limited",
@@ -444,6 +278,17 @@
       "condition": "new"
     },
     {
+      "name": "2024 RAM 1500 CLASSICTradesman 4x4 Crew Cab 5'7 Box",
+      "vin": "1C6RR7KT7RS196895",
+      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/3da08b46941e.html",
+      "year": 2024,
+      "make": "RAM",
+      "model": "1500 Classic",
+      "condition": "used",
+      "price": 39990.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2024 RAM 3500Tradesman 4x4 Reg Cab 8' Box",
       "vin": "3C63R3AL6RG320131",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/27dbf3aadc98.html",
@@ -451,37 +296,19 @@
       "make": "RAM",
       "model": "3500",
       "condition": "used",
-      "price": 29957.0,
+      "price": 64980.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025 GMC CANYON4WD Crew Cab AT4",
-      "vin": "1GTP2DEK3S1232194",
-      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/ad6d46ab1f68.html",
-      "year": 2025,
-      "make": "GMC",
-      "model": "CANYON4WD Crew Cab AT4",
-      "condition": "used",
-      "price": 17887.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 JEEP COMPASS Sport",
-      "vin": "3C4NJDAN1ST576237",
-      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/0a35716098e5.html",
-      "year": 2025,
-      "make": "JEEP",
-      "model": "Compass",
-      "condition": "used"
-    },
-    {
-      "name": "2025 RAM 1500 Big Horn",
+      "name": "2025 RAM 1500Big Horn 4x4 Crew Cab 5'7 Box",
       "vin": "3C6RRFFG4S4156683",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/19cbb6342626.html",
       "year": 2025,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "price": 59999.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2025 RAM 1500Sport 4x4 Crew Cab 5'7 Box",
@@ -491,17 +318,19 @@
       "make": "RAM",
       "model": "1500",
       "condition": "used",
-      "price": 39989.0,
+      "price": 64995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 DODGE DURANGO GT",
+      "name": "2026 DODGE DURANGOGT AWD",
       "vin": "1C4RDJDG9TC189520",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/e26757203f7e.html",
       "year": 2026,
       "make": "DODGE",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "price": 56592.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026 DODGE CHARGERScat Pack 2-Door AWD",
@@ -544,22 +373,26 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 JEEP WRANGLER Rubicon",
+      "name": "2026 JEEP WRANGLERRubicon 4 Door 4x4",
       "vin": "1C4PJXFN3TW192619",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/641623e34d3f.html",
       "year": 2026,
       "make": "JEEP",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "price": 54900.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2026 JEEP WRANGLER Rubicon",
+      "name": "2026 JEEP WRANGLERRubicon 4 Door 4x4",
       "vin": "1C4PJXFN7TW191604",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/1d1f1f26b7c7.html",
       "year": 2026,
       "make": "JEEP",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "price": 70690.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026 JEEP CHEROKEELaredo 4x4",

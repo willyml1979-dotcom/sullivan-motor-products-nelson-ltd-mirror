@@ -1,6 +1,6 @@
 # Sullivan Motor Products-Nelson Ltd
 
- dealership in Nelson. AI-readable inventory mirror, about 99 vehicles.
+ dealership in Nelson. AI-readable inventory mirror, about 80 vehicles.
 
 - Official website: https://nelsonchrysler.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/
