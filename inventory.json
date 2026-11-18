@@ -1,6 +1,6 @@
 {
   "dealership": "Sullivan Motor Products Nelson Ltd",
-  "generated_at": "2026-11-18T01:23:25",
+  "generated_at": "2026-11-18T02:39:42",
   "vehicle_count": 80,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -35,7 +35,7 @@
       "make": "HYUNDAI",
       "model": "Elantra",
       "condition": "used",
-      "price": 35624.0,
+      "price": 9594.0,
       "price_currency": "CAD"
     },
     {
@@ -68,7 +68,7 @@
       "make": "RAM",
       "model": "3500",
       "condition": "used",
-      "price": 92230.0,
+      "price": 51995.0,
       "price_currency": "CAD"
     },
     {
@@ -83,13 +83,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 JEEP GLADIATOR Sport S",
+      "name": "2020 JEEP GLADIATORSport S 4x4",
       "vin": "1C6HJTAG7LL133782",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/4f9aec303080.html",
       "year": 2020,
       "make": "JEEP",
       "model": "Gladiator",
-      "condition": "used"
+      "condition": "used",
+      "price": 34104.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2020 JEEP WRANGLERRubicon 4x4",
@@ -99,7 +101,7 @@
       "make": "JEEP",
       "model": "Wrangler",
       "condition": "used",
-      "price": 54900.0,
+      "price": 34980.0,
       "price_currency": "CAD"
     },
     {
@@ -110,7 +112,7 @@
       "make": "RAM",
       "model": "3500",
       "condition": "used",
-      "price": 92230.0,
+      "price": 49995.0,
       "price_currency": "CAD"
     },
     {
@@ -125,13 +127,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 DODGE DURANGO R/T",
+      "name": "2022 DODGE DURANGOR/T AWD",
       "vin": "1C4SDJCT3NC196708",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/c78d80dd5327.html",
       "year": 2022,
       "make": "DODGE",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "price": 43136.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2022 JEEP GLADIATORWillys 4x4",
@@ -141,7 +145,7 @@
       "make": "JEEP",
       "model": "Gladiator",
       "condition": "used",
-      "price": 28496.0,
+      "price": 40599.0,
       "price_currency": "CAD"
     },
     {
@@ -152,7 +156,7 @@
       "make": "RAM",
       "model": "3500",
       "condition": "used",
-      "price": 29957.0,
+      "price": 69995.0,
       "price_currency": "CAD"
     },
     {
@@ -167,22 +171,26 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 HYUNDAI SONATA Sport",
+      "name": "2023 HYUNDAI SONATA1.6T Sport",
       "vin": "KMHL44J21PA327807",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/eb0274d3307e.html",
       "year": 2023,
       "make": "HYUNDAI",
-      "model": "Sonata",
-      "condition": "used"
+      "model": "SONATA1.6T Sport",
+      "condition": "used",
+      "price": 35624.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2023 JEEP CHEROKEE Altitude",
+      "name": "2023 JEEP CHEROKEEAltitude 4x4",
       "vin": "1C4PJMMBXPD103220",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/used/d2c082911534.html",
       "year": 2023,
       "make": "JEEP",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "price": 44071.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2023 JEEP GRAND CHEROKEE 4XE4x4",
@@ -373,7 +381,7 @@
       "make": "JEEP",
       "model": "Compass",
       "condition": "used",
-      "price": 28496.0,
+      "price": 33980.0,
       "price_currency": "CAD"
     },
     {
