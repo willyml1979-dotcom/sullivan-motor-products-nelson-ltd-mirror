@@ -1,6 +1,6 @@
 {
   "dealership": "Sullivan Motor Products Nelson Ltd",
-  "generated_at": "2026-11-17T12:10:10",
+  "generated_at": "2026-11-18T01:23:25",
   "vehicle_count": 80,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -121,7 +121,7 @@
       "make": "JEEP",
       "model": "Gladiator",
       "condition": "new",
-      "price": 28496.0,
+      "price": 33980.0,
       "price_currency": "CAD"
     },
     {
@@ -163,7 +163,7 @@
       "make": "FORD",
       "model": "F-150",
       "condition": "new",
-      "price": 25873.0,
+      "price": 33980.0,
       "price_currency": "CAD"
     },
     {
@@ -240,22 +240,26 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 DODGE CHARGER DAYTONA Scat Pack",
+      "name": "2024 DODGE CHARGER DAYTONAScat Pack AWD",
       "vin": "2C3CDBCK5RR202138",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/1726df62a8e7.html",
       "year": 2024,
       "make": "DODGE",
       "model": "Charger",
-      "condition": "new"
+      "condition": "new",
+      "price": 59541.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2024 DODGE HORNET GT Plus",
+      "name": "2024 DODGE HORNETGT Plus AWD",
       "vin": "ZACNDFAN6R3A38399",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/f75ef1ee286f.html",
       "year": 2024,
       "make": "DODGE",
       "model": "Hornet",
-      "condition": "new"
+      "condition": "new",
+      "price": 51985.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2024 JEEP WRANGLERSport S 4 Door 4x4",
@@ -446,13 +450,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 JEEP CHEROKEE Laredo",
+      "name": "2026 JEEP CHEROKEELaredo 4x4",
       "vin": "3C4PJMB2XTT290031",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/254d2cab6fd7.html",
       "year": 2026,
       "make": "JEEP",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "price": 48775.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026 JEEP CHEROKEE Limited",
@@ -569,49 +575,59 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 1500 Black Express",
+      "name": "2026 RAM 1500Express 4x4 Crew Cab 5'7 Box",
       "vin": "1C6SRFGP2TN377948",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/94ad8cd3cab3.html",
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "price": 66685.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 1500 Black Express",
+      "name": "2026 RAM 1500Express 4x4 Crew Cab 5'7 Box",
       "vin": "1C6SRFGP6TN375961",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/7125d7a8d803.html",
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "price": 67975.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 1500 Black Express",
+      "name": "2026 RAM 1500Express 4x4 Crew Cab 5'7 Box",
       "vin": "1C6SRFGP8TN375962",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/ceb11c0c0543.html",
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "price": 67975.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 1500 Black Express",
+      "name": "2026 RAM 1500Express 4x4 Crew Cab 5'7 Box",
       "vin": "3C6RRFGG3T4161695",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/7dc706158ebb.html",
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "price": 62840.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 1500 Express",
+      "name": "2026 RAM 1500Express 4x4 Crew Cab 5'7 Box",
       "vin": "1C6SRFGP4TN375960",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/d6641334ec43.html",
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "price": 73275.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026 RAM 1500Rebel 4x4 Crew Cab 5'7 Box",
@@ -746,13 +762,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 JEEP GRAND WAGONEER Limited Reserve",
+      "name": "2027 JEEP GRAND WAGONEERLimited Reserve",
       "vin": "1C4SJVBP5VS557317",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/4b33cc611230.html",
       "year": 2027,
       "make": "JEEP",
       "model": "Grand Wagoneer",
-      "condition": "new"
+      "condition": "new",
+      "price": 110596.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 JEEP WRANGLERLaredo",
@@ -777,22 +795,26 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 1500 Big Horn",
+      "name": "2027 RAM 1500Big Horn 4x4 Crew Cab 5'7 Box",
       "vin": "3C6SRFFP3V4510411",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/91724b81b96d.html",
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "price": 74025.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 2500 Big Horn",
+      "name": "2027 RAM 2500Big Horn 4x4 Crew Cab 8' Box",
       "vin": "3C63R5JL7VG369201",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/1ab1cba9d833.html",
       "year": 2027,
       "make": "RAM",
       "model": "2500",
-      "condition": "new"
+      "condition": "new",
+      "price": 103365.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 RAM 3500Big Horn",
@@ -806,22 +828,26 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 3500 Laramie",
+      "name": "2027 RAM 3500Laramie 4x4 Crew Cab 6'4 Box",
       "vin": "3C63R3EL1VG408217",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/aaa0939ce3d2.html",
       "year": 2027,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "price": 118170.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 3500 Laramie",
+      "name": "2027 RAM 3500Laramie 4x4 Crew Cab 8' Box",
       "vin": "3C63R3JL7VG404355",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/a01dce940259.html",
       "year": 2027,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "price": 118350.0,
+      "price_currency": "CAD"
     }
   ]
 }
