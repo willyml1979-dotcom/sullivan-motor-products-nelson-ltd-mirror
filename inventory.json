@@ -1,6 +1,6 @@
 {
   "dealership": "Sullivan Motor Products Nelson Ltd",
-  "generated_at": "2026-11-18T02:39:42",
+  "generated_at": "2026-11-18T10:34:38",
   "vehicle_count": 80,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -281,13 +281,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 JEEP GRAND CHEROKEE Limited",
+      "name": "2024 JEEP GRAND CHEROKEELimited 4x4",
       "vin": "1C4RJHBG5RC156723",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/5e130532c82e.html",
       "year": 2024,
       "make": "JEEP",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "price": 77335.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2024 RAM 1500 CLASSICTradesman 4x4 Crew Cab 5'7 Box",
@@ -347,7 +349,7 @@
     {
       "name": "2026 DODGE CHARGERScat Pack 2-Door AWD",
       "vin": "2C3CDAMP7TR224752",
-      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/1f72d68d6f04.html",
+      "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/1c69ed0dd139.html",
       "year": 2026,
       "make": "DODGE",
       "model": "Charger",
@@ -356,22 +358,26 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 DODGE DURANGO GT",
+      "name": "2026 DODGE DURANGOGT AWD",
       "vin": "1C4RDJDG6TC279854",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/0720a3127fff.html",
       "year": 2026,
       "make": "DODGE",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "price": 58835.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2026 DODGE DURANGO GT Plus",
+      "name": "2026 DODGE DURANGOGT Plus AWD",
       "vin": "1C4RDJDG6TC319690",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/60089d16a298.html",
       "year": 2026,
       "make": "DODGE",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "price": 63480.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026 JEEP COMPASSSport 4x4",
@@ -429,22 +435,26 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 JEEP CHEROKEE Laredo",
+      "name": "2026 JEEP CHEROKEELaredo 4x4",
       "vin": "3C4PJMB23TT275998",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/c7a9b2ed0d1e.html",
       "year": 2026,
       "make": "JEEP",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "price": 47885.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2026 JEEP CHEROKEE Laredo",
+      "name": "2026 JEEP CHEROKEELaredo 4x4",
       "vin": "3C4PJMB26TT276515",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/ba59ae077d91.html",
       "year": 2026,
       "make": "JEEP",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "price": 48180.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026 JEEP CHEROKEELaredo 4x4",
@@ -469,85 +479,103 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 JEEP CHEROKEE Limited",
+      "name": "2026 JEEP CHEROKEELimited 4x4",
       "vin": "3C4PJMB23TT150712",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/2604b5f2a3c3.html",
       "year": 2026,
       "make": "JEEP",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "price": 56775.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2026 JEEP CHEROKEE Overland",
+      "name": "2026 JEEP CHEROKEEOverland 4x4",
       "vin": "3C4PJMC20TT261426",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/2a0c688a867a.html",
       "year": 2026,
       "make": "JEEP",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "price": 56885.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2026 JEEP COMPASS North",
+      "name": "2026 JEEP COMPASSNorth 4x4",
       "vin": "3C4NJDBN3TT155409",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/9248579c9dd8.html",
       "year": 2026,
       "make": "JEEP",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "price": 43180.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2026 JEEP COMPASS North",
+      "name": "2026 JEEP COMPASSNorth 4x4",
       "vin": "3C4NJDBN8TT155406",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/3909cea8d160.html",
       "year": 2026,
       "make": "JEEP",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "price": 42585.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2026 JEEP COMPASS North",
+      "name": "2026 JEEP COMPASSNorth 4x4",
       "vin": "3C4NJDBNXTT155407",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/30b2988c5ef5.html",
       "year": 2026,
       "make": "JEEP",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "price": 43180.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2026 JEEP COMPASS Sport",
+      "name": "2026 JEEP COMPASSSport 4x4",
       "vin": "3C4NJDAN1TT156205",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/e8ebbed5917b.html",
       "year": 2026,
       "make": "JEEP",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "price": 37490.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2026 JEEP COMPASS Sport",
+      "name": "2026 JEEP COMPASSSport 4x4",
       "vin": "3C4NJDAN9TT153844",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/92780db5d818.html",
       "year": 2026,
       "make": "JEEP",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "price": 37490.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2026 JEEP COMPASS Sport",
+      "name": "2026 JEEP COMPASSSport 4x4",
       "vin": "3C4NJDANXTT156204",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/893b70b93cb3.html",
       "year": 2026,
       "make": "JEEP",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "price": 37390.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2026 JEEP GLADIATOR Sport S",
+      "name": "2026 JEEP GLADIATORSport S 4x4",
       "vin": "1C6PJTAG1TL153649",
       "url": "https://willyml1979-dotcom.github.io/sullivan-motor-products-nelson-ltd-mirror/new/bd60818fb247.html",
       "year": 2026,
       "make": "JEEP",
       "model": "Gladiator",
-      "condition": "new"
+      "condition": "new",
+      "price": 52685.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026 JEEP WRANGLERSahara 4 Door 4x4",
